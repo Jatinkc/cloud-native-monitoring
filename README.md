@@ -1,6 +1,6 @@
 # cloud-native-monitoring
 
-For Detailed step-by-step process see my blog here -----> [Full detailed blog](https://legiondev.hashnode.dev/deploy-cloud-native-monitoring-application-on-kubernetes)
+For Detailed step-by-step process see my blog here -----> [Deploy Cloud-Native Monitoring Application on Kubernetes - Blog](https://legiondev.hashnode.dev/deploy-cloud-native-monitoring-application-on-kubernetes)
 
 # Successfully Deploying Monitoring System using Python Flask, psutil on AWS with its services Elastic Container Registry and Elastic Kubernetes Cluster
 
